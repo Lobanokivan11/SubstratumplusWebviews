@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webviewproviders>
+    <webviewprovider
+    	availableByDefault="true"
+     	description="Mulch WebView"
+      	packageName="us.spotco.mulch_wv" />
+</webviewproviders>
