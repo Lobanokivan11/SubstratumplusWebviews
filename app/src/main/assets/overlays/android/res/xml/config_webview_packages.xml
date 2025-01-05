@@ -32,4 +32,12 @@
         availableByDefault="true"
         description="AOSP WebView"
         packageName="com.android.webview" />
+    <webviewprovider
+    	availableByDefault="true"
+     	description="Bromite WebView"
+      	packageName="org.bromite.webview" />
+    <webviewprovider
+    	availableByDefault="true"
+     	description="Mulch WebView"
+      	packageName="us.spotco.mulch_wv" />
 </webviewproviders>
